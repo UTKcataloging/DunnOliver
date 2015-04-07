@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <identifier>Dunn-Oliver Journal 1 Front Cover-Back Cover</identifier>
+        <title>50 Years in Cades Cove. Memoir 1</title>
+        <date_text>unknown</date_text>
+        <date_single_start>1730</date_single_start>
+        <date_range_end>1983</date_range_end>
+        <date_qualifier>inferred</date_qualifier>
+        <public_note>Dates inferred from collection dates.</public_note>
+        <name>Oliver, John W. | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre | Type: personal</name>
+        <abstract>The first memoir is a handwritten account of the history of Cades Cove from its settlement in 1818 to the early 1900s, when the journal was written. The history mostly follows the Oliver Family, which are the ancestors of John W. Oliver, the writer of the journal. The journal deals with the genealogy of the Olivers in Cades Cove and of some of the other prominent families of the area, such as the Cables, the Tiptons, and the Burchfields. The author goes into personal accounts of his childhood in the Cove up through his adulthood. He also talks about his sons and their professions.</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_geographic>Elijah Oliver Cabin  | Coordinates: 35.60981N, 83.7949W</subject_geographic>
+        <subject_geographic>Elijah Oliver Cabin | DOTS</subject_geographic>
+        <subject_geographic>John Oliver Cabin | Coordinates: 35.60981N, 83.7949W</subject_geographic>
+        <subject_geographic>John Oliver Cabin | DOTS</subject_geographic>
+        <subject_geographic>Cades Cove Primitive Baptist Church (Tenn.) | Coordinates: 35.60203N, 83.81351W</subject_geographic>
+        <subject_geographic>Primitive Baptist Cemetery</subject_geographic>
+        <subject_geographic>Cades Cove Post Office</subject_geographic>
+        <subject_topical>Post office stations and branches | http://id.loc.gov/authorities/subjects/sh85105505</subject_topical>
+        <subject_topical>Post offices | DOTS</subject_topical>
+        <subject_topical>Church buildings | http://id.loc.gov/authorities/subjects/sh85025854</subject_topical>
+        <subject_topical>Churches | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <subject_topical>Mountain people--Geneology | authorities/subjects</subject_topical>
+        <subject_topical>Mountain people--Geneology | DOTS</subject_topical>
+        <subject_topical>Pioneers--Family relationships | authorities/subjects</subject_topical>
+        <subject_topical>Pioneer families | DOTS</subject_topical>
+        <subject_topical>Farms | http://id.loc.gov/authorities/subjects/sh85047299</subject_topical>
+        <subject_topical>Farms | DOTS</subject_topical>
+        <subject_topical>Orchards | http://id.loc.gov/authorities/subjects/sh85095323</subject_topical>
+        <subject_topical>Orchards | DOTS</subject_topical>
+        <subject_topical>United States--History--Revolution, 1775-1783 | http://id.loc.gov/authorities/subjects/sh85140139</subject_topical>
+        <subject_topical>Revolutionary War | DOTS</subject_topical>
+        <subject_topical>United States--History--Civil War, 1861-1865 | http://id.loc.gov/authorities/subjects/sh85140205</subject_topical>
+        <subject_topical>Civil War | DOTS</subject_topical>
+        <subject_topical>United States--History--War of 1812 | http://id.loc.gov/authorities/subjects/sh85140194</subject_topical>
+        <subject_topical>Handicraft | http://id.loc.gov/authorities/subjects/sh85058715</subject_topical>
+        <subject_topical>Handicrafts | DOTS</subject_topical>
+        <subject_topical>Weaving | http://id.loc.gov/authorities/subjects/sh85145868</subject_topical>
+        <subject_topical>Weaving--Textiles | DOTS</subject_topical>
+        <subject_name>Oliver Family</subject_name>
+        <subject_name>Burchfield Family</subject_name>
+        <subject_name>Tipton Family</subject_name>
+        <subject_name>Gregory Family</subject_name>
+        <subject_name>Shields Family</subject_name>
+        <subject_name>Cable Family</subject_name>
+        <subject_name>Oliver, John</subject_name>
+        <subject_name>John Oliver | DOTS</subject_name>
+        <subject_name>Oliver, John W.</subject_name>
+        <subject_name>Oliver, Lucretia</subject_name>
+        <subject_name>Oliver, Elijah</subject_name>
+        <subject_name>Tipton, William</subject_name>
+        <subject_name>William Tipton | DOTS</subject_name>
+        <subject_name>Cable, Peter</subject_name>
+        <subject_name>Peter Cable | DOTS</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1983</collection>
+        <collection_identifier>MS.3690</collection_identifier>
+        <item_type>text</item_type>
+        <form>manuscripts (document genre) | http://vocab.getty.edu/aat/300028569</form>
+        <language>eng</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver Journal 2 Front Cover - Back Cover</identifier>
+        <title>50 Years in Cades Cove. Memoir 2</title>
+        <date_text>unknown</date_text>
+        <date_single_start>1730</date_single_start>
+        <date_range_end>1983</date_range_end>
+        <date_qualifier>inferred</date_qualifier>
+        <public_note>Dates inferred from collection dates.</public_note>
+        <name>Oliver, John W. | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre | Type: personal</name>
+        <abstract>The second memoir gives a brief overview of the lives of John P. Cable, Robert Burchfield, Russell Gregory, and notable members of their families. The author provides accounts of the improvements to the Cove that they left behind, such as the Cable Mill, the first store house, and the first dry goods store. The memoir gives genealogical information and the names of Cades Cove residents who fought in the Civil War, along with their army affliation. The author writes about the history of Muster Field and the first post office in the Cove.</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_geographic>Gregory Bald  | Coordinates: 35.52064N, 83.86601W</subject_geographic>
+        <subject_geographic>Gregory Bald | DOTS</subject_geographic>
+        <subject_geographic>Muster Field</subject_geographic>
+        <subject_geographic>Elijah Oliver Cabin | Coordinates: 35.60981N, 83.7949W</subject_geographic>
+        <subject_geographic>Elijah Oliver Cabin | DOTS</subject_geographic>
+        <subject_geographic>John Oliver Cabin | Coordinates: 35.60981N, 83.7949W</subject_geographic>
+        <subject_geographic>John Oliver Cabin | DOTS</subject_geographic>
+        <subject_geographic>Cades Cove Post Office</subject_geographic>
+        <subject_geographic>Cades Cove Primitive Baptist Church (Tenn.) | Coordinates: 35.60203N, 83.81351W</subject_geographic>
+        <subject_geographic>Primitive Baptist Cemetary</subject_geographic>
+        <subject_geographic>John P. Cable Mill | Coordinates: 35.58511N, 83.84447W</subject_geographic>
+        <subject_geographic>Cable Mill | DOTS</subject_geographic>
+        <subject_geographic>Gregory Farm</subject_geographic>
+        <subject_topical>Post office stations and branches | http://id.loc.gov/authorities/subjects/sh85105505</subject_topical>
+        <subject_topical>Post offices | DOTS</subject_topical>
+        <subject_topical>Church buildings | http://id.loc.gov/authorities/subjects/sh85025854</subject_topical>
+        <subject_topical>Churches | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <subject_topical>Mountain people--Geneology | authorities/subjects</subject_topical>
+        <subject_topical>Mountain people--Geneology | DOTS</subject_topical>
+        <subject_topical>Pioneers--Family relationships | authorities/subjects</subject_topical>
+        <subject_topical>Pioneer families | DOTS</subject_topical>
+        <subject_topical>Farms | http://id.loc.gov/authorities/subjects/sh85047299</subject_topical>
+        <subject_topical>Farms | DOTS</subject_topical>
+        <subject_topical>Great Smoky Mountains National Park (N.C. and Tenn.)--Boundaries--Cades Cove (Tenn.)</subject_topical>
+        <subject_topical>United States--History--Civil War, 1861-1865 | http://id.loc.gov/authorities/subjects/sh85140205</subject_topical>
+        <subject_topical>Civil War | DOTS</subject_topical>
+        <subject_name>Oliver Family</subject_name>
+        <subject_name>Burchfield Family</subject_name>
+        <subject_name>Tipton Family</subject_name>
+        <subject_name>Gregory Family</subject_name>
+        <subject_name>Shields Family</subject_name>
+        <subject_name>Cable Family</subject_name>
+        <subject_name>Cable, John P.</subject_name>
+        <subject_name>John P. Cable | DOTS</subject_name>
+        <subject_name>Burchfield, Robert</subject_name>
+        <subject_name>Burchfield, Noah</subject_name>
+        <subject_name>Cable, Casper</subject_name>
+        <subject_name>Gregory, Russell</subject_name>
+        <subject_name>Cable, Peter</subject_name>
+        <subject_name>Peter Cable | DOTS</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1984</collection>
+        <collection_identifier>MS.3691</collection_identifier>
+        <item_type>text</item_type>
+        <form>manuscripts (document genre) | http://vocab.getty.edu/aat/300028569</form>
+        <language>eng</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver Journal 3 Front Cover - Back Cover</identifier>
+        <title>50 Years in Cades Cove. Memoir 3</title>
+        <date_text>unknown</date_text>
+        <date_single_start>1730</date_single_start>
+        <date_range_end>1983</date_range_end>
+        <date_qualifier>inferred</date_qualifier>
+        <public_note>Dates inferred from collection dates.</public_note>
+        <name>Oliver, John W. | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre | Type: personal</name>
+        <abstract>The third memoir gives details about the families of the Shields, Tiptons, Lawsons, Byrds, Dunns, and Olivers who lived in Cades Cove. This memoir has extensive genealogical information. Half of the memoir consists of family trees of the Shields family. The third memoir gives more background to the Oliver family, tracing its roots to England and providing information about the family coat of arms.</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_geographic>Chestnut Flats  | Coordinates: 35.60842N, 83.70128W</subject_geographic>
+        <subject_geographic>Chestnut Flats | DOTS</subject_geographic>
+        <subject_geographic>George W. Powell Place</subject_geographic>
+        <subject_geographic>Shields Place</subject_geographic>
+        <subject_geographic>Forge Creek | Coordinates: 35.58509N, 83.8449W</subject_geographic>
+        <subject_geographic>Abrams Creek | Coordinates: 35.59339N, 83.84839W</subject_geographic>
+        <subject_geographic>Abrams Creek | DOTS</subject_geographic>
+        <subject_geographic>Cades Cove Primitive Baptist Church (Tenn.) | Coordinates: 35.60203N, 83.81351W</subject_geographic>
+        <subject_geographic>Primitive Baptist Cemetary</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <subject_topical>Mountain people--Geneology | authorities/subjects</subject_topical>
+        <subject_topical>Mountain people--Geneology | DOTS</subject_topical>
+        <subject_topical>Pioneers--Family relationships | authorities/subjects</subject_topical>
+        <subject_topical>Pioneer families | DOTS</subject_topical>
+        <subject_topical>Farms | http://id.loc.gov/authorities/subjects/sh85047299</subject_topical>
+        <subject_topical>Farms | DOTS</subject_topical>
+        <subject_topical>Orchards | http://id.loc.gov/authorities/subjects/sh85095323</subject_topical>
+        <subject_topical>Orchards | DOTS</subject_topical>
+        <subject_topical>United States--History--Revolution, 1775-1783 | http://id.loc.gov/authorities/subjects/sh85140139</subject_topical>
+        <subject_topical>Revolutionary War | DOTS</subject_topical>
+        <subject_topical>United States--History--Civil War, 1861-1865 | http://id.loc.gov/authorities/subjects/sh85140205</subject_topical>
+        <subject_topical>Civil War | DOTS</subject_topical>
+        <subject_name>Oliver Family</subject_name>
+        <subject_name>Burchfield Family</subject_name>
+        <subject_name>Tipton Family</subject_name>
+        <subject_name>Gregory Family</subject_name>
+        <subject_name>Shields Family</subject_name>
+        <subject_name>Byrd Family</subject_name>
+        <subject_name>Dunn Family</subject_name>
+        <subject_name>Lawson Family</subject_name>
+        <subject_name>Oliver, John</subject_name>
+        <subject_name>John Oliver | DOTS</subject_name>
+        <subject_name>Tipton, William</subject_name>
+        <subject_name>William Tipton | DOTS</subject_name>
+        <subject_name>Shields, Robert</subject_name>
+        <subject_name>Robert Shields | DOTS</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1985</collection>
+        <collection_identifier>MS.3692</collection_identifier>
+        <item_type>text</item_type>
+        <form>manuscripts (document genre) | http://vocab.getty.edu/aat/300028569</form>
+        <language>eng</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG0001</identifier>
+        <title>Aunt Sarah and Uncle Noah</title>
+        <date_text>Circa 1925</date_text>
+        <date_single_start>1925</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>"Uncle Noah and Aunt Sarah Burchfield 83 and 81"</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Mountain people--Geneology | authorities/subjects</subject_topical>
+        <subject_topical>Mountain people--Geneology | DOTS</subject_topical>
+        <subject_topical>Pioneers--Family relationships | authorities/subjects</subject_topical>
+        <subject_topical>Pioneer families | DOTS</subject_topical>
+        <subject_name>Oliver Family</subject_name>
+        <subject_name>Burchfield Family</subject_name>
+        <subject_name>Burchfield, Noah</subject_name>
+        <subject_name>Burchfield, Sarah</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1986</collection>
+        <collection_identifier>MS.3693</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG0002</identifier>
+        <title_initial_article>The </title_initial_article>
+        <title>Old John Oliver Homestead</title>
+        <date_text>Circa 1925</date_text>
+        <date_single_start>1925</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>"The Old John Oliver Homestead of early days. First Permanent white settlement of Cades Cove, 1817-1818"</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_geographic>John Oliver Cabin | Coordinates: 35.60981N, 83.7949W</subject_geographic>
+        <subject_geographic>John Oliver Cabin | DOTS</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain people--Geneology | authorities/subjects</subject_topical>
+        <subject_topical>Mountain people--Geneology | DOTS</subject_topical>
+        <subject_topical>Pioneers--Family relationships | authorities/subjects</subject_topical>
+        <subject_topical>Pioneer families | DOTS</subject_topical>
+        <subject_topical>Farms | http://id.loc.gov/authorities/subjects/sh85047299</subject_topical>
+        <subject_topical>Farms | DOTS</subject_topical>
+        <subject_name>Oliver Family</subject_name>
+        <subject_name>Oliver, John</subject_name>
+        <subject_name>John Oliver | DOTS</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1987</collection>
+        <collection_identifier>MS.3694</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG0003</identifier>
+        <title>Old Home of George W. and Aunt Ann Powell</title>
+        <date_text>Circa 1925</date_text>
+        <date_single_start>1925</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>"Old Hone of George W. and Aunt Ann Powell in Chestnutt Flats, a suburb of Cades Cove. It's history can never be written."</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_geographic>Chestnut Flats  | Coordinates: 35.60842N, 83.70128W</subject_geographic>
+        <subject_geographic>Chestnut Flats | DOTS</subject_geographic>
+        <subject_geographic>George W. Powell Place</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain people--Geneology | authorities/subjects</subject_topical>
+        <subject_topical>Mountain people--Geneology | DOTS</subject_topical>
+        <subject_topical>Pioneers--Family relationships</subject_topical>
+        <subject_topical>Pioneer families | DOTS</subject_topical>
+        <subject_topical>Farms | http://id.loc.gov/authorities/subjects/sh85047299</subject_topical>
+        <subject_topical>Farms | DOTS</subject_topical>
+        <subject_name>Oliver Family</subject_name>
+        <subject_name>Powell Family</subject_name>
+        <subject_name>Powell, George W.</subject_name>
+        <subject_name>Powell, Ann</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1988</collection>
+        <collection_identifier>MS.3695</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG0004</identifier>
+        <title>Primitive Baptist Church House</title>
+        <date_text>Circa 1925</date_text>
+        <date_single_start>1925</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>"Primitive Baptist Church House. Organized June 16, 1827."</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_geographic>Cades Cove Primitive Baptist Church (Tenn.)  | Coordinates: 35.60203N, 83.81351W</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1989</collection>
+        <collection_identifier>MS.3696</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG0005</identifier>
+        <title>Old Cable Grist Mill</title>
+        <date_text>Circa 1925</date_text>
+        <date_single_start>1925</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>"Old Cable Grist Mill"</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_geographic>John P. Cable Mill  | Coordinates: 35.58511N, 83.84447W</subject_geographic>
+        <subject_geographic>Cable Mill | DOTS</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <subject_name>Cable Family</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1990</collection>
+        <collection_identifier>MS.3697</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG0006</identifier>
+        <title>Aunt Becca Cable, Old Maid</title>
+        <date_text>Circa 1925</date_text>
+        <date_single_start>1925</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>"Aunt Becca Cable Old Maid 86"</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <subject_topical>Mountain people--Geneology | authorities/subjects</subject_topical>
+        <subject_topical>Mountain people--Geneology | DOTS</subject_topical>
+        <subject_name>Cable Family</subject_name>
+        <subject_name>Cable, Becca</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1991</collection>
+        <collection_identifier>MS.3698</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG0007</identifier>
+        <title>John W. Oliver Delivering Mail in Snow</title>
+        <date_text>Circa 1925</date_text>
+        <date_single_start>1925</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>"Oliver never failed in more than 32 years service to deliver the goods beginning Oct. 15 1904</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <subject_topical>Mountain people--Geneology | authorities/subjects</subject_topical>
+        <subject_topical>Mountain people--Geneology | DOTS</subject_topical>
+        <subject_topical>Postal service | http://id.loc.gov/authorities/subjects/sh85105472</subject_topical>
+        <subject_topical>Mail | DOTS</subject_topical>
+        <subject_topical>Post office stations and branches | http://id.loc.gov/authorities/subjects/sh85105505</subject_topical>
+        <subject_topical>Post offices | DOTS</subject_topical>
+        <subject_name>Oliver Family</subject_name>
+        <subject_name>Oliver, John W.</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1992</collection>
+        <collection_identifier>MS.3699</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG0008</identifier>
+        <title>John W. Oliver with Bees</title>
+        <date_text>Circa 1925</date_text>
+        <date_single_start>1925</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>John W. Oliver posing with his beehives</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <subject_topical>Mountain people--Geneology | authorities/subjects</subject_topical>
+        <subject_topical>Mountain people--Geneology | DOTS</subject_topical>
+        <subject_topical>Bees | http://id.loc.gov/authorities/subjects/sh85012843</subject_topical>
+        <subject_topical>Bees | DOTS</subject_topical>
+        <subject_name>Oliver Family</subject_name>
+        <subject_name>Oliver, John W.</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1993</collection>
+        <collection_identifier>MS.3700</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG0009</identifier>
+        <title>John W. Oliver in front of Jonathan Myers Post Office</title>
+        <date_text>Circa 1925</date_text>
+        <date_single_start>1925</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>John W. Oliver with mail bags in front of Cades Cove Post Office</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_geographic>Jonathan Myers Post Office</subject_geographic>
+        <subject_geographic>Cades Cove Post Office</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <subject_topical>Post office stations and branches | http://id.loc.gov/authorities/subjects/sh85105505</subject_topical>
+        <subject_topical>Post offices | DOTS</subject_topical>
+        <subject_name>Oliver Family</subject_name>
+        <subject_name>Oliver, John W.</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1994</collection>
+        <collection_identifier>MS.3701</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG00010</identifier>
+        <title>John W. Oliver and Wife, Nancy Ann</title>
+        <date_text>Circa 1932</date_text>
+        <date_single_start>1932</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>"John W. Oliver and Wife"</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Mountain people--Geneology | authorities/subjects</subject_topical>
+        <subject_topical>Mountain people--Geneology | DOTS</subject_topical>
+        <subject_name>Oliver Family</subject_name>
+        <subject_name>Oliver, John W.</subject_name>
+        <subject_name>Oliver, Nancy Ann</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1995</collection>
+        <collection_identifier>MS.3702</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG00011</identifier>
+        <title>Shields Mill</title>
+        <date_text>Circa 1932</date_text>
+        <date_single_start>1932</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>"Shields Mill Operated by S.W. Oliver"</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_geographic>Shields Mill</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <subject_name>Oliver Family</subject_name>
+        <subject_name>Oliver, S. W.</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1996</collection>
+        <collection_identifier>MS.3703</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG00012</identifier>
+        <title>Noah Burchfield in front of Burchfield Barn</title>
+        <date_text>Circa 1932</date_text>
+        <date_single_start>1932</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>"Uncle Noah Burchfield's Barn and Uncle Noah Burchfield"</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_geographic>Burchfield Barn</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <subject_topical>Mountain people--Geneology | authorities/subjects</subject_topical>
+        <subject_topical>Mountain people--Geneology | DOTS</subject_topical>
+        <subject_topical>Farms | http://id.loc.gov/authorities/subjects/sh85047299</subject_topical>
+        <subject_topical>Farms | DOTS</subject_topical>
+        <subject_name>Oliver Family</subject_name>
+        <subject_name>Burchfield Family</subject_name>
+        <subject_name>Burchfield, Noah</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1997</collection>
+        <collection_identifier>MS.3704</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG00013</identifier>
+        <title>George Tipton Barn in Middle of Cove</title>
+        <date_text>Circa 1932</date_text>
+        <date_single_start>1932</date_single_start>
+        <date_qualifier>approximate</date_qualifier>
+        <name>Unknown | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre</name>
+        <abstract>"George Tipton Barn. Middle of Cove."</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_geographic>George Tipton Barn</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <subject_topical>Farms | http://id.loc.gov/authorities/subjects/sh85047299</subject_topical>
+        <subject_topical>Farms | DOTS</subject_topical>
+        <subject_name>Tipton Family</subject_name>
+        <subject_name>Tipton, George</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1998</collection>
+        <collection_identifier>MS.3705</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+    <row>
+        <identifier>Dunn-Oliver IMG00014</identifier>
+        <title>Gregory Bald - Farm Cades Cove</title>
+        <date_text>1934</date_text>
+        <date_single_start>1934</date_single_start>
+        <name>Exline, Edouard | Role: Creator | Role URI: http://id.loc.gov/vocabulary/relators/cre | Type: personal</name>
+        <abstract>"Gregory Bald - Farm Cades Cove 1934 Ches. S. Dunn"</abstract>
+        <subject_geographic>Cades Cove (Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85018626 | Coordinates: 35.59426N, 83.84184W</subject_geographic>
+        <subject_geographic>Cades Cove | DOTS </subject_geographic>
+        <subject_geographic>Great Smoky Mountains (N.C. and Tenn.) | URI: http://id.loc.gov/authorities/subjects/sh85057008 | Coordinates: 35.58343N, 83.50822W</subject_geographic>
+        <subject_geographic>Gregory Bald  | Coordinates: 35.52064N, 83.86601W</subject_geographic>
+        <subject_geographic>Gregory Bald | DOTS</subject_geographic>
+        <subject_topical>Cades Cove (Tenn.)--History | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--History | DOTS</subject_topical>
+        <subject_topical>Cades Cove (Tenn.)--Buildings, structures, etc. | authorities/subjects</subject_topical>
+        <subject_topical>Cades Cove--Structures | DOTS</subject_topical>
+        <subject_topical>Mountain life | http://id.loc.gov/authorities/subjects/sh85087783</subject_topical>
+        <subject_topical>Mountain life | DOTS</subject_topical>
+        <subject_topical>Farms | http://id.loc.gov/authorities/subjects/sh85047299</subject_topical>
+        <subject_topical>Farms | DOTS</subject_topical>
+        <subject_name>Dunn Family</subject_name>
+        <rights>May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</rights>
+        <repository>University of Tennessee, Knoxville. Special Collections</repository>
+        <content_source>University of Tennessee, Knoxville. Libraries</content_source>
+        <collection>Dunn-Oliver Collection, 1730-1999</collection>
+        <collection_identifier>MS.3706</collection_identifier>
+        <item_type>still image</item_type>
+        <form>photographs | http://vocab.getty.edu/aat/300046300</form>
+        <language>zxx</language>
+        <digital_origin>reformatted digital</digital_origin>
+        <language_cataloging>eng</language_cataloging>
+        <project_title>50 Years in Cades Cove</project_title>
+    </row>
+</root>
